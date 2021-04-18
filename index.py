@@ -1,5 +1,4 @@
 # Bot coded by Marc Marcos Madruga for simp city server
-# any other usage of this software can be reported to: marquitos#1583
 
 from discord.ext import commands
 import discord
